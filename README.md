@@ -9,6 +9,7 @@ Image processing Jupyter Notebooks for Julia
 
 #### IJulia library for Julia which can be installed by accessing the Julia REPL and running these commands:
 _(The Julia REPL can be accessed by running Julia from your terminal (CMD for Windows))_
+
 `using Pkg
 Pkg.add("IJulia")`
 
