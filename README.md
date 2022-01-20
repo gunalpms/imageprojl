@@ -3,16 +3,16 @@ Image processing Jupyter Notebooks for Julia
 
 ## Running the notebooks:
 
-### You need [jupyter notebook installed]("https://jupyter.org/install") (requires python 3):
+#### You need [jupyter notebook installed](https://jupyter.org/install) (requires python 3):
 
-### You need the [Julia Programming Language installed](https://julialang.org):
+#### You need the [Julia Programming Language installed](https://julialang.org):
 
-### IJulia library for Julia which can be installed by accessing the Julia REPL and running these commands:
+#### IJulia library for Julia which can be installed by accessing the Julia REPL and running these commands:
 _(The Julia REPL can be accessed by running Julia from your terminal (CMD for Windows))_
 `using Pkg
 Pkg.add("IJulia")`
 
-### Last but not least, to run Jupyter with Julia, run these commands in the Julia REPL:
+#### Last but not least, to run Jupyter with Julia, run these commands in the Julia REPL:
 `using IJulia
 notebook()`
 
