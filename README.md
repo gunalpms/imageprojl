@@ -21,7 +21,12 @@ using IJulia
 notebook()
 ```
 
-For other package dependencies, you can simply run ```jl Pkg.add("PackageName")``` after running ```jl using Pkg``` from the Julia REPL.
+For other package dependencies, you can simply run 
+```jl
+using Pkg
+Pkg.add("PackageName")
+``` 
+from the Julia REPL.
 
 
 
