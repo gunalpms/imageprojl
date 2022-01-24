@@ -3,7 +3,7 @@ Image processing Jupyter Notebooks for Julia
 
 ## Running the notebooks:
 
-#### You need [jupyter notebook installed](https://jupyter.org/install) (requires python 3):
+#### You need [jupyter notebook installed](https://jupyter.org/install) (requires python 3.3 or later):
 
 #### You need the [Julia Programming Language installed](https://julialang.org):
 
