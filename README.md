@@ -8,7 +8,7 @@ Image processing Jupyter Notebooks for Julia
 #### You need the [Julia Programming Language installed](https://julialang.org):
 
 #### IJulia library for Julia which can be installed by accessing the Julia REPL and running these commands:
-_(The Julia REPL can be accessed by running Julia from your terminal (CMD for Windows))_
+_The Julia REPL can be accessed by running Julia from your terminal / command prompt_
 
 ```jl
 using Pkg
@@ -21,12 +21,12 @@ using IJulia
 notebook()
 ```
 
-For other package dependencies, you can simply run 
+For other package dependencies, you can simply run from the Julia REPL.
 ```jl
 using Pkg
 Pkg.add("PackageName")
 ``` 
-from the Julia REPL.
+
 
 
 
