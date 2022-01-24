@@ -1,4 +1,5 @@
 # imageprojl
+![banner](https://raw.githubusercontent.com/gunalpms/imageprojl/main/banner.png)
 Image processing Jupyter Notebooks for Julia
 
 ## Running the notebooks:
